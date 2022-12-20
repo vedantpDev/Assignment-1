@@ -1,0 +1,7 @@
+footer {
+  position: absolute;
+  width: 100%;
+  top: 100%;
+  background-color: turquoise;
+  margin-top: 17px;
+}

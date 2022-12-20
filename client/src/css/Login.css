@@ -1,0 +1,13 @@
+form {
+  border: 1px solid rgb(0 0 0);
+  width: 30%;
+  border-radius: 15px;
+  margin: auto;
+  margin-top: 169px;
+  padding: 37px;
+  background-color: aquamarine;
+}
+
+h2 {
+  text-align: center;
+}
